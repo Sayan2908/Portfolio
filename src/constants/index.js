@@ -120,7 +120,7 @@ const experiences = [
     company_name: "3s Groomers",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "March 2023 - Present",
     points: [
       "Developed interactive scenes in Unity UI, optimizing UI design and scripting for enhanced user experiences",
       "Integrated character animations seamlessly in Unity and Flutter projects, enhancing appeal and engagement",
@@ -132,7 +132,7 @@ const experiences = [
     company_name: "Freelancer",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Present",
     points: [
       "Developing and maintaining web applications using Next.js and other related technologies mainly in react framework",
       "Developing and maintaining mobile applications using Flutter",
@@ -145,7 +145,7 @@ const experiences = [
     company_name: "Shopify",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "........",
     points: [
       "Waiting🥰",
     ],
